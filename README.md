@@ -51,24 +51,7 @@ The documentation covers:
 
    This creates a `site` directory containing the static HTML files ready for deployment.
 
-## Documentation Structure
-
-```
-docs/
-└── index.md          # Main documentation page
-```
-
-The main documentation content is located in `docs/index.md` and covers:
-
-- **Architecture**: System overview and component diagram
-- **Services**: Detailed description of all microservices
-- **Technology Stack**: Technologies and frameworks used
-- **Getting Started**: Setup and installation instructions
-- **API Routes**: Endpoint routing information
-- **Configuration**: Service configuration details
-- **Development Guidelines**: Best practices and conventions
-
-## 🛠️ Configuration
+##  Configuration
 
 The MkDocs configuration is defined in `mkdocs.yml`:
 
